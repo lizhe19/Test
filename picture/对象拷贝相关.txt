@@ -1,0 +1,16 @@
+对象拷贝性能对比：
+BeanCopier>spring BeanUtils>=PropertyUtils.copyProperties>>apache BeanUtils
+BeanCopier方式bean拷贝：
+static final Map<String, BeanCopier> BEAN_COPIER_MAP = new ConcurrentHashMap<>();
+public static void copierCopyNew(Object source, Object target){
+        Class sourceClass = source.getClass();
+        Class targetClass = target.getClass();
+        String key = getKey(sourceClass , targetClass);
+        System.out.println("key:"+key);
+        BeanCopier copier = BEAN_COPIER_MAP.get(key);
+        if(copier == null){
+            copier = BeanCopier.create(sourceClass, targetClass, false);
+            BEAN_COPIER_MAP.put(key, copier);
+        }
+        copier.copy(source, target, null);
+}

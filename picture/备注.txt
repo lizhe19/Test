@@ -1,0 +1,178 @@
+Navicat for MongoDB破解版：
+https://blog.csdn.net/qq_38368356/article/details/85281054
+
+springboot之pom配置profiles适用于不同开发环境
+https://blog.csdn.net/qq_40807739/article/details/87163414
+
+Spring Boot+Mybatis多数据源读写分离
+https://blog.csdn.net/jackz01/article/details/81132343
+
+JAVA操作FTP服务器
+https://blog.csdn.net/rhx_1989/article/details/88424215
+https://www.iteye.com/blog/dengli19881102-1028957
+https://www.cnblogs.com/weihbs/p/7760552.html
+
+@Valid注解 基本使用方法
+https://blog.csdn.net/ai24387511/article/details/90641510
+
+spring boot之 DevTools 热部署，修改代码立刻见效，快速重启
+https://blog.csdn.net/qq_27886997/article/details/82799217
+
+IntelliJ IDEA 2017.3.5永久破解
+https://blog.csdn.net/hello__word__/article/details/82682933
+
+查看linux占用内存/CPU最多的进程
+https://www.cnblogs.com/rzstrong/p/8529917.html
+
+JSON Web Token (JWT)是一种基于 token 的认证方案
+https://blog.csdn.net/wlddhj/article/details/79726001
+
+ElasticSearch教程——安装Head插件
+https://blog.csdn.net/gwd1154978352/article/details/82693174
+
+Address already in use: JVM_Bind 端口被占用的几个解决办法
+https://blog.csdn.net/ydk888888/article/details/81567032
+
+-------------------------------------------------------------------------------
+ELK: 
+Linux中soft nproc 、soft nofile和hard nproc以及hard nofile配置
+https://blog.csdn.net/zxljsbk/article/details/89153690
+
+max virtual memory areas vm.max_map_count [65530] is too low, increase to at least [262144]
+https://www.cnblogs.com/yidiandhappy/p/7714489.html
+
+logstash 常见解决方法
+https://blog.csdn.net/signmem/article/details/49884511
+
+Kibana查询说明
+https://www.cnblogs.com/davidwang456/p/7795251.html
+
+log4j2+ELK解决问题
+https://segmentfault.com/a/1190000018080716?utm_source=tag-newest
+
+Logstash学习系列之插件介绍
+https://www.cnblogs.com/zhaijunming5/p/6478940.html
+
+Logstash学习11_Logstash处理时区、类型转换、删除字段的案例配置
+https://blog.csdn.net/wang_zhenwei/article/details/55510606
+
+ELK-log4j2异步输出+logstash
+https://www.cnblogs.com/linjiqin/p/10757261.html
+
+ELK日志系统浅析与部署
+https://blog.csdn.net/qq_22211217/article/details/80764568
+-------------------------------------------------------------------------------
+log4j2 PatternLayout输出格式详解
+https://blog.csdn.net/qq_24879495/article/details/78061388
+
+使用poi中的getCellTypeEnum()枚举返回类型描述
+https://blog.csdn.net/qq_26582185/article/details/81667647
+
+Linux下的tar压缩解压缩命令详解
+https://www.cnblogs.com/lhm166/articles/6604852.html
+
+linux查看防火墙状态及开启关闭命令
+https://www.cnblogs.com/zhangmingcheng/p/6048043.html
+
+Xshell6 中文不限时版下载(免密匙)
+https://blog.csdn.net/qq_31362105/article/details/80706750
+
+SpringCloud之feign的各种超时时间配置效果
+http://www.pianshen.com/article/187038775/
+
+详解Spring Cloud Feign 熔断配置的一些小坑
+https://www.jb51.net/article/138758.htm
+
+MyBatis-Plus 配置
+https://blog.csdn.net/qq_40688338/article/details/83380953
+
+Swagger 常用注解使用详解
+https://blog.csdn.net/wyb880501/article/details/79576784
+
+Navicat Premium 12.0.18的安装与破解 ~~【手把手系列】超详细图文教程
+https://blog.csdn.net/qq_42030947/article/details/86769248
+
+spring cloud gateway网关
+https://blog.csdn.net/ifrozen/article/details/80016566
+
+Springboot client 常用配置详解
+https://www.cnblogs.com/xiaohouzai/p/10030638.html
+
+java8 四大核心函数式接口Function、Consumer、Supplier、Predicate
+https://blog.csdn.net/a879611951/article/details/80104014
+
+1.Collections.singletonList方法的使用
+https://www.cnblogs.com/oreo/p/9761940.html
+2.SpringBoot动态修改 cron 表达式
+https://blog.csdn.net/piaoranyuji/article/details/89394669
+https://blog.csdn.net/weixin_37848710/article/details/79629054
+3.spring-amqp手动停止RabbitListener
+https://blog.csdn.net/jaune161/article/details/83213958
+4.spring-amqp手动停止RabbitListener
+https://blog.csdn.net/jaune161/article/details/83213958
+5.mybatis执行insert返回主键
+https://blog.csdn.net/u012489091/article/details/89339437
+Springboot整合Mybatis使用TypeHandler来转换数据库中的数据
+https://www.cnblogs.com/dyf-stu/p/10162301.html
+ResultHandler处理mybatis查询结果  应用场景：查询大数据量导出
+https://www.cnblogs.com/windy13/p/11801813.html
+https://blog.csdn.net/weixin_30500663/article/details/98290417
+nginx配置之proxy_pass路径加斜杠/以及包含路径的区别
+https://blog.csdn.net/u010786902/article/details/91414747?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param
+nginx配置支持websocket
+https://blog.csdn.net/weixin_37264997/article/details/80341911
+ThreadLocal与InheritableThreadLocal学习笔记
+https://blog.csdn.net/u014798233/article/details/53866629
+深入Guava Cache的refresh和expire刷新机制
+https://blog.csdn.net/abc86319253/article/details/53020432
+EasyExcel实现导入导出
+https://blog.csdn.net/sinat_29774479/article/details/104699411?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param
+https://blog.csdn.net/qq_27092581/article/details/103337345?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-8.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-8.channel_param
+https://www.jianshu.com/p/78cc1729fbd1
+happends-before原则
+https://www.cnblogs.com/niuyourou/p/12398252.html
+pom插件
+https://www.cnblogs.com/wwywwy/p/10017978.html
+spring 定时任务 taskScheduler详解
+https://www.cnblogs.com/ElEGenT/p/6392465.html
+hutool常用工具类
+https://www.cnblogs.com/tomingto/p/11717916.html
+mysql触发器
+https://blog.csdn.net/xyw591238/article/details/51320142
+存储过程和触发器
+https://www.cnblogs.com/ivictor/p/5045378.html
+mysql表分区
+https://www.cnblogs.com/zhouguowei/p/9360136.html
+Mysql教程
+http://c.biancheng.net/view/2596.html
+SpringBoot添加自定义消息转换器
+https://www.cnblogs.com/hellxz/p/8735602.html
+SpringBoot RestTemplate请求与相应详情跟踪分析  可用于记录日志
+https://www.jianshu.com/p/de6f3801a4dd
+RestTemplate支持http和https
+https://blog.csdn.net/weixin_41235296/article/details/86645363?utm_medium=distribute.pc_relevant_t0.none-task-blog-searchFromBaidu-1.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-searchFromBaidu-1.not_use_machine_learn_pai
+RestTemplate设置拦截器导致流关闭解决方案
+https://www.freesion.com/article/6100383130/
+https://www.cnblogs.com/pi-laoban/p/14071279.html
+es javaAPI
+https://www.jianshu.com/p/5cb91ed22956
+docker部署springboot项目
+https://blog.csdn.net/qq_33220089/article/details/105104524?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control
+socket相关
+https://blog.csdn.net/qq_41517936/article/details/81015711
+倒排索引
+https://www.cnblogs.com/zlslch/p/6440114.html
+使用ScriptRunner执行SQL脚本
+https://blog.csdn.net/u011943534/article/details/86620716
+springcloud获取注册中心所有服务以及服务下的实例信息
+https://www.cnblogs.com/hfultrastrong/p/8608903.html
+使用nacos作为配置中心
+https://www.cnblogs.com/larscheng/p/11392466.html
+
+/**
+ ${desciption}
+
+ @author lz-119612
+ @version 1.0
+ @date ${DATE}?${TIME}
+ **/
