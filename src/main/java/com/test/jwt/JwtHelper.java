@@ -1,3 +1,4 @@
+/*
 package com.test.jwt;
 
 import io.jsonwebtoken.Claims;
@@ -12,6 +13,7 @@ import java.time.LocalDateTime;
 import java.time.ZoneOffset;
 import java.util.Date;
 
+*/
 /**
  * 基于JWT可以做统一登录和验证   可以在过滤器对token进行校验 如果token解析失败或者过期了则禁止访问
  *
@@ -19,7 +21,8 @@ import java.util.Date;
  * @version 1.0
  * @date 2020/7/1 15:28
  *  
- **/
+ **//*
+
 public class JwtHelper {
     private final static String base64Secret = "MDk4ZjZiY2Q0NjIxZDM3M2NhZGU0ZTgzMjYyN2I0ZjY=";
     private final static int expiresSecond = 3600000;
@@ -67,32 +70,40 @@ public class JwtHelper {
         return builder.compact();
     }
 
-    /**
+    */
+/**
      * 验证token是否过期失效
      * @param expirationTime
      * @return
-     */
+     *//*
+
     public boolean isTokenExpired (Date expirationTime) {
         return expirationTime.before(new Date());
     }
-    /**
+    */
+/**
      * 获取token失效时间
      * @param token
      * @return
-     */
+     *//*
+
     public static Date getExpirationDateFromToken(String token) {
         return parseJWT(token).getExpiration();
     }
-    /**
+    */
+/**
      * 获取用户名从token中
-     */
+     *//*
+
     public static String getUsernameFromToken(String token) {
         return parseJWT(token).getSubject();
     }
 
-    /**
+    */
+/**
      * 获取jwt发布时间
-     */
+     *//*
+
     public static Date getIssuedAtDateFromToken(String token) {
         return parseJWT(token).getIssuedAt();
     }
@@ -115,3 +126,4 @@ public class JwtHelper {
     }
 
 }
+*/
